@@ -1,3 +1,10 @@
 @ECHO OFF
-mkdir C:\CEU\Pre-session\ba-pre-session-2020\opt-out-exam\Süle_Kata\IT\made_by_my_script
+cd IT
+mkdir .\made_by_my_script
+cd made_by_my_script
+ECHO "Hello world"
+ECHO "Hello world">hello.txt
+cd made_by_my_script
+DIR
+DIR>list_of_files.txt
 PAUSE

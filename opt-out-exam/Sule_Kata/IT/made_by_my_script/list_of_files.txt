@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8072-7D05
+
+ Directory of C:\CEU\Pre-session\ba-pre-session-2020\opt-out-exam\Sule_Kata\IT\made_by_my_script
+
+2020. 08. 28.  22:06    <DIR>          .
+2020. 08. 28.  22:06    <DIR>          ..
+2020. 08. 28.  22:06                15 hello.txt
+2020. 08. 28.  22:06                 0 list_of_files.txt
+               2 File(s)             15 bytes
+               2 Dir(s)  41ÿ680ÿ371ÿ712 bytes free
