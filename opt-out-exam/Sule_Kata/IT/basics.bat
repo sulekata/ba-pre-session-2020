@@ -1,5 +1,5 @@
 @ECHO OFF
-cd IT
+cd Sule_Kata\IT
 mkdir .\made_by_my_script
 cd made_by_my_script
 ECHO "Hello world"
